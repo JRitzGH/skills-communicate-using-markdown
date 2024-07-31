@@ -6,3 +6,6 @@
 ```java
 String myString = "Hello World!";
 ```
+- [x] Learn MarkDown
+- [ ] Learn GitHub
+- [ ] Have fun!
